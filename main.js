@@ -1,7 +1,7 @@
 
 const { URL, URLSearchParams } = require('url');
 
-const date = "202202";
+const date = "20220201";
 
 const baseUrl = "https://bank.gov.ua/NBU_Exchange/exchange_site";
 
